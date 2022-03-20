@@ -18,7 +18,7 @@ spec:
         app: flaskdemo
     spec:
       containers:
-      - image: emiukey/kubernetescode:8
+      - image: emiukey/kubernetescode:10
         name: flaskdemo
         resources: {}
 status: {}
